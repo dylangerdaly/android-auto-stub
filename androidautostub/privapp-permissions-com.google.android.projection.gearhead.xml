@@ -31,5 +31,8 @@
         <permission name="android.permission.START_TASKS_FROM_RECENTS"/>
         <permission name="android.permission.UPDATE_DEVICE_STATS"/>
         <permission name="android.permission.USER_ACTIVITY"/>
+        <!-- Should be removed once it is granted via role. -->
+        <permission name="android.permission.TOGGLE_AUTOMOTIVE_PROJECTION"/>
+        <permission name="android.permission.UPDATE_APP_OPS_STATS"/>
     </privapp-permissions>
 </permissions>
