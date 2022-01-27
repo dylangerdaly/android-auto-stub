@@ -34,6 +34,8 @@
         <permission name="android.permission.START_TASKS_FROM_RECENTS"/>
         <permission name="android.permission.UPDATE_DEVICE_STATS"/>
         <permission name="android.permission.USER_ACTIVITY"/>
+        <permission name="android.permission.INTERACT_ACROSS_PROFILES"/>
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW"/>
         <!-- Should be removed once it is granted via role. -->
         <permission name="android.permission.TOGGLE_AUTOMOTIVE_PROJECTION"/>
         <permission name="android.permission.UPDATE_APP_OPS_STATS"/>
