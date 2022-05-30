@@ -45,6 +45,8 @@
         <permission name="android.permission.RECORD_AUDIO" fixed="false"/>
         <permission name="android.permission.SEND_SMS" fixed="false"/>
         <permission name="android.permission.READ_CALENDAR" fixed="false"/>
+        <permission name="android.permission.BLUETOOTH_CONNECT" fixed="false"/>
+        <permission name="android.permission.BLUETOOTH_SCAN" fixed="false"/>
         <!-- For Top Gear -->
         <permission name="android.permission.PROCESS_OUTGOING_CALLS" fixed="false"/>
         <permission name="android.permission.READ_SMS" fixed="false"/>
